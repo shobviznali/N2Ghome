@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "n2ghome",
   "version": "1.0.0",
   "description": "",
@@ -17,6 +18,20 @@
   },
   "homepage": "https://github.com/shobviznali/N2Ghome#readme",
   "dependencies": {
+=======
+  "name": "something",
+  "version": "1.0.0",
+  "description": "smth",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "nodemon server.js"
+  },
+  "author": "Ashot",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+>>>>>>> a24853e6eab1006f43ff11bf52d71f7953e5ad08
     "express": "^4.18.2",
     "fs": "^0.0.1-security",
     "http": "^0.0.1-security",
