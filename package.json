@@ -1,0 +1,25 @@
+{
+  "name": "n2ghome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shobviznali/N2Ghome.git"
+  },
+  "author": "Ashot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shobviznali/N2Ghome/issues"
+  },
+  "homepage": "https://github.com/shobviznali/N2Ghome#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.0.2"
+  }
+}
